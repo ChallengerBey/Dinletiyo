@@ -248,7 +248,7 @@ export default function HomePage() {
       </section>
 
       <footer className="text-center text-sm text-muted-foreground py-8 border-t">
-        Topluyo Inc tarafından 2025 Semih Ergili
+        Topluyo Inc tarafından 2025  Ergili
       </footer>
     </div>
   );
